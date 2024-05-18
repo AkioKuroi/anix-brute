@@ -1,0 +1,37 @@
+export default interface Vote {
+  translators: string | null;
+  id: number;
+  broadcast: number;
+  year: string;
+  country: string;
+  duration: number;
+  description: string;
+  image: string;
+  genres: string;
+  studio: string;
+  season: number;
+  note: string | null;
+  author: string;
+  poster: string;
+  director: string;
+  rating: number;
+  grade: number;
+  favorites_count: number;
+  creation_date: number;
+  last_update_date: number;
+  title_ru: string;
+  title_original: string;
+  episodes_released: number;
+  episodes_total: number;
+  release_date: number | null;
+  age_rating: number;
+  profile_list_status: null;
+  vote_count: number;
+  my_vote: number;
+  voted_at: number;
+  is_adult: boolean;
+  is_play_disabled: boolean;
+  is_deleted: boolean;
+  is_viewed: boolean;
+  is_favorite: boolean;
+}
