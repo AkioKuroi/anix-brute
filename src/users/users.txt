@@ -1,13 +1,7 @@
-Anixart Profiles Enumeration Brutforce
-By OTAQUE
+Anixart Profiles Enumeration Bruteforce
+by Akio Kuroi
 Written in TypeScript
 2024-present time
-Powered by Group Reflection
-(c)
 
 Profiles will be shown here below
-|
-|
-|
-
-
+.

@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "Anixart user enumeration script",
   "main": "src/index.ts",
-  "author": "OTAQUE",
+  "author": "Akio Kuroi",
   "license": "AGPL-3.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node src/index.ts"
   },
   "dependencies": {
